@@ -26,3 +26,5 @@ You will also see any lint errors in the console.
 
 PS: Please ignore the react-dark-mode and My-dark-mode-app folders(They are empty)
 
+I have also added a video of the website for your perusal
+
