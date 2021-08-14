@@ -1,4 +1,4 @@
-Prerequisites:
+## Prerequisites:
 
 1. Install Nodejs. You can download it from here - https://nodejs.org/en/
 2. This React app is compatible with browsers - Mozilla Firefox and Google Chrome.
