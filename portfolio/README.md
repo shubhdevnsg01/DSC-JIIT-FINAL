@@ -9,8 +9,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory :
 
+delete the JSON.lock and yarn.lock packages
+and then:
 ### `npm install`
 
 This command install all npm packages used in the development of the React App.
@@ -27,5 +29,6 @@ I have done Usecase(2) of FRONT END.
 
 PS: Please ignore the react-dark-mode and My-dark-mode-app folders(They are empty)
 
-I have also added a video of my project for your perusal
+I have  added a video of my project for your perusal
 
+I have also added two videos(intallation part 1&2) that shows how to clone and run this repository.
