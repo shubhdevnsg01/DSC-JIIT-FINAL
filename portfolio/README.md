@@ -7,12 +7,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+clone this project in your folder
+open the portfolio folder
+delete the JSON.lock and yarn.lock packages
 ## Available Scripts
 
-In the project directory :
+After completing the aforementioned steps go in the project directory and then run:
 
-delete the JSON.lock and yarn.lock packages
-and then:
 ### `npm install`
 
 This command install all npm packages used in the development of the React App.
