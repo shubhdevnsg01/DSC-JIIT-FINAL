@@ -27,5 +27,5 @@ I have done Usecase(2) of FRONT END.
 
 PS: Please ignore the react-dark-mode and My-dark-mode-app folders(They are empty)
 
-I have also added a video of the website for your perusal
+I have also added a video of my project for your perusal
 
