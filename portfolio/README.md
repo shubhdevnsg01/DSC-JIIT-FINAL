@@ -28,7 +28,7 @@ You will also see any lint errors in the console.
 
 I have done Usecase(2) of FRONT END. 
 My website portfolio is developed through react.js
-It is a responsive and bootstrapped website.
+
 
 PS: Please ignore the react-dark-mode and My-dark-mode-app folders(They are empty)
 
